@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentPart1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Hello ini home fragment</string>
+    <string name="java">Hello ini java fragment</string>
+    <string name="cplusplus">Hello ini C++ fragment</string>
+    <string name="phyton">Hello ini phyton fragment</string>
+</resources>
