@@ -12,13 +12,9 @@ import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link CplusplusFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class CplusplusFragment extends Fragment {
     ImageView imgSinga;
+
     public CplusplusFragment() {
     }
 

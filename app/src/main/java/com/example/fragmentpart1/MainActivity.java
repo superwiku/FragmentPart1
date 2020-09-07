@@ -30,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
 
         tabLayout=(TabLayout)findViewById(R.id.tab_layout);
         tabLayout.setTabTextColors(getResources().getColor(R.color.colorPrimaryDark),getResources().getColor(R.color.colorWhite));
-        frameLayout=(FrameLayout)findViewById(R.id.frame_layout);
 
+        frameLayout=(FrameLayout)findViewById(R.id.frame_layout);
         fragment=new HomeFragment();
         fragmentManager=getSupportFragmentManager();
         fragmentTransaction=fragmentManager.beginTransaction();

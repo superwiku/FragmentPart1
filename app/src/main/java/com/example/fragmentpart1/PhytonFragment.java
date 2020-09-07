@@ -12,16 +12,10 @@ import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link PhytonFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class PhytonFragment extends Fragment {
     ImageView imgAyam;
 
     public PhytonFragment() {
-        // Required empty public constructor
     }
 
     @Override
